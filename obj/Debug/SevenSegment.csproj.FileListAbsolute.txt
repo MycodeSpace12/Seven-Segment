@@ -1,0 +1,10 @@
+C:\Users\youssef\Desktop\SevenSegment-master\bin\Debug\SevenSegment.exe.config
+C:\Users\youssef\Desktop\SevenSegment-master\bin\Debug\SevenSegment.exe
+C:\Users\youssef\Desktop\SevenSegment-master\bin\Debug\SevenSegment.pdb
+C:\Users\youssef\Desktop\SevenSegment-master\obj\Debug\SevenSegment.csproj.AssemblyReference.cache
+C:\Users\youssef\Desktop\SevenSegment-master\obj\Debug\SevenSegment.frmSevenSegment.resources
+C:\Users\youssef\Desktop\SevenSegment-master\obj\Debug\SevenSegment.Properties.Resources.resources
+C:\Users\youssef\Desktop\SevenSegment-master\obj\Debug\SevenSegment.csproj.GenerateResource.cache
+C:\Users\youssef\Desktop\SevenSegment-master\obj\Debug\SevenSegment.csproj.CoreCompileInputs.cache
+C:\Users\youssef\Desktop\SevenSegment-master\obj\Debug\SevenSegment.exe
+C:\Users\youssef\Desktop\SevenSegment-master\obj\Debug\SevenSegment.pdb
